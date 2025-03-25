@@ -1,0 +1,48 @@
+body{
+
+  text-align: center;
+  font-size: 17px;
+}
+h1{
+
+  margin: 10px;
+}
+container{
+
+  height: 50vh;
+  width: 50vw;
+ 
+}
+buttons{
+
+  height: 30px;
+  width: 100px;
+  margin:20px;
+  padding:0px;
+  border-radius: 50%;
+  cursor: pointer;
+  
+}
+.Happy{
+
+  background-color: blue;
+  height: 100vh;
+  
+}
+.Sad{
+
+  background-color: lightgoldenrodyellow;;
+  height: 100vh;
+  
+}
+.Excited{
+
+  background-color: lightsalmon;
+  height: 100vh;
+ 
+}
+.Angry{
+  
+  background-color: red;
+  height: 100vh;
+}
